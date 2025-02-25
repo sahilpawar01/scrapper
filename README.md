@@ -2,7 +2,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-repo?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/:user/:repo)
-![GitHub license]([![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT))
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 🚀 **API Keys Scraper** is a powerful tool designed to scrape OpenAI, Gemini, and other API keys from public repositories in seconds.
 
