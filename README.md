@@ -2,8 +2,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-repo?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/:user/:repo)
-![GitHub issues](https://img.shields.io/github/issues/your-repo?style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/your-repo?style=for-the-badge)
+![GitHub license]([![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT))
 
 🚀 **API Keys Scraper** is a powerful tool designed to scrape OpenAI, Gemini, and other API keys from public repositories in seconds.
 
@@ -20,7 +19,7 @@
 ## 📌 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/api-keys-scraper.git
+git clone https://github.com/sahilpawar01/scraper.git
 
 # Navigate to the directory
 cd scraper
