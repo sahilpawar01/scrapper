@@ -1,7 +1,7 @@
 # 🔑 API Keys Scraper
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/your-repo?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/your-repo?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/:user/:repo)
 ![GitHub issues](https://img.shields.io/github/issues/your-repo?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/your-repo?style=for-the-badge)
 
